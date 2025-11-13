@@ -1,4 +1,4 @@
-# SCBCH Project
+# Semantic-Consistent Bidirectional Contrastive Hashing for Noisy Multi-Label Cross-Modal Retrieval
 
 ## This project implements the cross-modal hashing method SCBCH.
 
